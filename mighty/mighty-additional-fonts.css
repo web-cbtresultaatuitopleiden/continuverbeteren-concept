@@ -1,0 +1,43 @@
+
+@font-face {
+  font-family: 'LLO LMI Headings';
+  src: url('../lib/fonts/pe0lQ9H8_Vdyeb-Z.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LLO LMI Headings';
+  src: url('../lib/fonts/_hM0YeLo5_wCMbyK.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LLO LMI Headings';
+  src: url('../lib/fonts/aSM-lv4td2pDqiPo.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'LLO LMI Parapraph2';
+  src: url('../lib/fonts/GbUv-JVOcNe7pII2.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LLO LMI Parapraph2';
+  src: url('../lib/fonts/368Lzfd9wShCnVRZ.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LLO LMI Parapraph2';
+  src: url('../lib/fonts/ExzmIVeEKJqOzZSw.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+

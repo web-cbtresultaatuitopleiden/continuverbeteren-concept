@@ -1,0 +1,8 @@
+/** Interactive iframe: theme fonts */
+:root {
+  --mighty-theme-body-font-family: "LLO LMI Parapraph";
+  --mighty-theme-heading-font-family: "LLO LMI Headings";
+  --mighty-theme-subheading-font-family: "LLO LMI Headings";
+}
+/** Interactive iframe: match course body typeface */
+body { font-family: var(--mighty-theme-body-font-family, "LLO LMI Parapraph2"); }
